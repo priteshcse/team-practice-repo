@@ -1,1 +1,1 @@
-# team-pracitce-repo
+# team-practice-repo
